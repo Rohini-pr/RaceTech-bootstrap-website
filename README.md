@@ -1,8 +1,7 @@
-# RaceTech Bootstrap Website
+# 🚀 RaceTech - Responsive Business Website
 
 Netlify Link: https://racetech-bootstrap.netlify.app/
 
-# 🚀 RaceTech - Responsive Business Website
 
 ## About the Project
 
